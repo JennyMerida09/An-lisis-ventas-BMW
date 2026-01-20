@@ -24,6 +24,7 @@ El repositorio contiene los siguientes archivos:
 - `consultas.sql`
 - `create_table.sql`
 - `dashboard.png`
+- `BMW.csv`
 
 ---
 
