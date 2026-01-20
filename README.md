@@ -16,15 +16,31 @@ Analizar los datos del proyecto para identificar:
   
 ---
 
+## Dataset
+
+El dataset contiene información de ventas con los siguientes campos:
+- `Model`
+- `Year`
+- `Region`
+- `Color`
+- `Fuel_Type`
+- `Transmission`
+- `Engine_Size_L`
+- `Price_USD`
+- `Sales_Volume`
+- `Sales_Classification`
+
+---
+
 ## Estructura del proyecto
 
 El repositorio contiene los siguientes archivos:
 
-- `dashboard.pbix`
-- `consultas.sql`
-- `create_table.sql`
-- `dashboard.png`
-- `BMW.csv`
+- `dashboard.pbix` → Archivo principal del dashboard en Power BI.
+- `consultas.sql` → Consultas SQL utilizadas para el análisis exploratorio.
+- `create_table.sql` → Script SQL para la creación de la tabla de bmw_sales
+- `BMW.csv` → Dataset utilizado para el análisis y visualización.
+- `/images/` → Capturas del dashboard para visualización rápida.
 
 ---
 
