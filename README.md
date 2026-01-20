@@ -39,3 +39,16 @@ El repositorio contiene los siguientes archivos:
 
 ##  Principales insights
 
+- El año 2022 fue el que mayor volumen de ventas obtuvo luego de las ventas bajas ocurridas durante 2020
+- Asia es la región con más consumidores, lidera en cantidad y facturación
+- Hay una leve diferencia entre los tipos de transmisiones, pero refleja las preferencia de los clientes
+- Los modelos 7 series, 3 series y i8 fueron los más demandados y los que más ingresos generaron
+
+---
+
+## Dashboard
+
+Vista general del dashboard:
+
+![Dashboard General](images/dashboard.png)
+
