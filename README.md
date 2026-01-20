@@ -23,7 +23,7 @@ El repositorio contiene los siguientes archivos:
 - `dashboard.pbix`
 - `consultas.sql`
 - `create_table.sql`
-- `dashboard.pbix`
+- `dashboard.png`
 
 ---
 
