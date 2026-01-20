@@ -20,7 +20,7 @@ Analizar los datos del proyecto para identificar:
 
 El repositorio contiene los siguientes archivos:
 
-- `dashboard.pbix` → Archivo principal del dashboard en Power BI.
+- `dashboardBMW.pbix` → Archivo principal del dashboard en Power BI.
 - `consultas.sql` → Consultas SQL utilizadas para el análisis exploratorio.
 - `create_table.sql` → Script SQL para la creación de la tabla de bmw_sales
 - `BMW.csv` → Dataset utilizado para el análisis y visualización.
