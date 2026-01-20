@@ -1,7 +1,7 @@
 # Analisis-ventas-BMW
 Análisis de datos sobre las ventas de vehículos BMW, evaluando la evolución anual del volumen y facturación de mercado por modelo y región, además de analizar el impacto del tipo de transmisión y combustible sobre la demanda.
 
-# Dashboard de ventas - Power BI
+# Dashboard - Power BI
 Proyecto de análisis de ventas de vehículos BMW desarrollado con SQL y Power BI, enfocado en entender la facturación anual, comprender las preferencias de los clientes y las regiones que más demandan la marca.
 
 ---
