@@ -52,3 +52,17 @@ Vista general del dashboard:
 
 ![Dashboard General](images/dashboard.png)
 
+---
+
+## Herramientas utilizadas
+
+- SQLite
+- Power BI
+- Kaggle (datos obtenidos para el proyecto)
+
+---
+
+## Notas
+
+Proyecto realizado con fines de práctica en análisis de datos.
+
